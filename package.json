@@ -1,0 +1,26 @@
+{
+  "name": "learning-december-2021-complete-sass-tutorial",
+  "version": "1.0.0",
+  "description": "Code along to YouTube tutorial - Complete Sass Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-laws/learning-december-2021-complete-sass-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robert-laws/learning-december-2021-complete-sass-tutorial/issues"
+  },
+  "homepage": "https://github.com/robert-laws/learning-december-2021-complete-sass-tutorial#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.45.0"
+  }
+}
