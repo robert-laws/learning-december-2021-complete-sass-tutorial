@@ -4,6 +4,60 @@
   padding: 0;
 }
 
-header h1 {
-  color: darkblue;
+html {
+  font-size: 16px;
+}
+
+header {
+  padding: 1rem;
+}
+
+hr {
+  border: 0;
+  border-top: 1px dotted #efefef;
+}
+
+img {
+  max-width: 100%;
+}
+
+button {
+  background-color: #3299ef;
+}
+
+a {
+  color: #1ac888;
+}
+
+h1 {
+  color: #326dee;
+  margin-bottom: 0.75rem;
+}
+
+button {
+  color: white;
+  border: 0;
+  background: #326dee;
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+}
+
+.error {
+  color: #d32752;
+  border-color: #d32752;
+  border-style: solid;
+  margin: 0.75rem;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  border-width: 1px;
+}
+
+.notification {
+  color: #1ac888;
+  border-color: #1ac888;
+  border-style: solid;
+  margin: 0.75rem;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  border-width: 1px;
 }
