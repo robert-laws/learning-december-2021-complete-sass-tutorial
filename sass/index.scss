@@ -1,19 +1,5 @@
-// variables & functions
-@import 'functions.scss';
-@import 'variables.scss';
-@import 'breakpoints';
+// $primary: rgb(0, 183, 255);
+// $base-padding: 2rem;
+// $base-border-thickness: 3px;
 
-// base & layout
-@import 'base';
-
-// colors
-@import 'colors';
-
-// components (button, card, navbar, etc.)
-@import 'components/card';
-@import 'components/button';
-@import 'components/navbar';
-
-// utilities (margin, padding, opacity, etc.)
-@import 'grid';
-@import 'utilities';
+@import 'custom-theme';
